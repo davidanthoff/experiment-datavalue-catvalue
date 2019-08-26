@@ -1,0 +1,7 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataValues = "e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5"
+IteratorInterfaceExtensions = "82899510-4779-5014-852e-03e436cf321d"
+
+[compat]
+julia = "=1.1.1"
